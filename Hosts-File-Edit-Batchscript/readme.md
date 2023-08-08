@@ -20,7 +20,7 @@ The method involves automatically moving the hosts file from a specified locatio
 
 To use this tutorial, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Download the bat file from this [link](https://github.com/AriaCloud/Windows-Tips/blob/157506381a37c616313d312638e61deeb0a1fbc5/Hosts-File-Edit-Batchscript/Hosts%20Script.bat).
 
 2. Review the tutorial content provided in the repository.
 
